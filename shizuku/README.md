@@ -13,7 +13,7 @@ features:
 footer: Copyright © 2019 RikkaApps
 ---
 
-### As Easy as you are a system app
+### As Easy as you are a system  appa data
 
 ```java
 private static final IPackageManager PACKAGE_MANAGER = IPackageManager.Stub.asInterface(
